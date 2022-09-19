@@ -2,6 +2,7 @@
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hi 👋, I'm Harsh Vyas</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+<img align="right" height="220" src="https://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" alt="NEO">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvyas2704&label=Profile%20views&color=0e75b6&style=flat" alt="harshvyas2704" /> </p>
 
