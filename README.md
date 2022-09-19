@@ -16,7 +16,6 @@
 <a href="https://twitter.com/Harshvyas411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh_vyas" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harsh-vyas-24a06a103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh_vyas" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fw17_0995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harsh_vyas" height="30" width="40" /></a>
-
 <a href="https://leetcode.com/harsh411/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh_vyas" height="30" width="40" /></a>
 </p>
 
