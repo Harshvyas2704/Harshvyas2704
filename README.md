@@ -22,13 +22,7 @@
 
 - ⚡ Fun fact **part time mathematician...**
 
-<!-- <h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://twitter.com/Harshvyas411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh_vyas" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harsh-vyas-24a06a103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh_vyas" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fw17_0995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harsh_vyas" height="30" width="40" /></a>
-<a href="https://leetcode.com/harsh411/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh_vyas" height="30" width="40" /></a>
-</p> -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,13 +33,7 @@
 </p>
 
 
-<h2><i>My GitHub Stats</i></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshvyas2704&label=Profile%20views&color=0e75b6&style=flat" alt="Harshvyas2704" /> </p>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Harshvyas2704&show_icons=true&locale=en&theme=dark" alt="Harshvyas2704"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvyas2704&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Harshvyas2704" height="139" />
-</p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Harshvyas2704&theme=xcode" height ="307"/>
+
 
 <h3 align="left">🛠 &nbsp;Tech Stack </h3>
 
@@ -57,3 +45,11 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+  
+  <h2><i>My GitHub Stats</i></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshvyas2704&label=Profile%20views&color=0e75b6&style=flat" alt="Harshvyas2704" /> </p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Harshvyas2704&show_icons=true&locale=en&theme=dark" alt="Harshvyas2704"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvyas2704&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Harshvyas2704" height="139" />
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=Harshvyas2704&theme=xcode" height ="307"/>
