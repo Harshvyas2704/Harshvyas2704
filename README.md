@@ -18,7 +18,7 @@
 - 💬 Ask me about **Java, MySql, HTML, CSS, Javascript**
 
 - 📫 How to reach me **harshvyasdev@gmail.com**
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16QOVFFjd63sP08SEZfVk7rWGx3lCY4D2/view?usp=sharing);
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bKkod_d6oJ6NnQsg7wKZqdaoyIiOHw60/view?usp=sharing);
 
 - ⚡ Fun fact **part time mathematician...**
 
