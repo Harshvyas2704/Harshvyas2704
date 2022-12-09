@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshvyas2704" alt="harshvyas2704" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/harshvyas411" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/harshvyas411?logo=twitter&style=for-the-badge" alt="https://twitter.com/harshvyas411" /></a> </p>
+
 
 - 🔭 I’m currently working on **My Skills**
 
@@ -26,10 +26,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/harshvyas411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/harshvyas411" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-vyas-24a06a103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-vyas-24a06a103/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19968773/harsh-vyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19968773/harsh-vyas" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@fw17_0995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@fw17_0995" height="30" width="40" /></a>
+<a href="https://twitter.com/Harshvyas411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/harshvyas411" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-vyas-24a06a103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-vyas-24a06a103/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19968773/harsh-vyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19968773/harsh-vyas" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/fw17_0995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@fw17_0995" height="30" width="40" /></a>
 </p>
 
 
