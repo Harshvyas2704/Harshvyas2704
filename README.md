@@ -52,4 +52,4 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Harshvyas2704&show_icons=true&locale=en&theme=dark" alt="Harshvyas2704"  height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvyas2704&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Harshvyas2704" height="139" />
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Harshvyas2704&theme=xcode" height ="307"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Harshvyas2704&theme=xcode" height ="307"/> -->
